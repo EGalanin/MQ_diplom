@@ -749,6 +749,15 @@ textarea.field {
   max-height: 248px;
   margin-bottom: 4px;
 }
+
+.trend-card {
+  padding: 15px 15px;
+  flex-grow: 1;
+}
+
+.trend-title {
+  font-size: calc(0.85vw + 6px);
+}
 }
 
 @media (min-width: 641px) and (max-width: 1199px) and (orientation: portrait) {
